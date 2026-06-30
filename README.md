@@ -1,4 +1,3 @@
-```markdown
 # Snowflake TPC-H Sales Analysis
 
 A SQL analysis of the TPC-H sample dataset (~1.5M order line items) run in
@@ -20,4 +19,4 @@ trends, and revenue concentration.
 
 ## Tools
 Snowflake · SQL
-```
+
